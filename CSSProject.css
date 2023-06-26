@@ -1,0 +1,80 @@
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 1434px;
+    height: 65px;
+    background-color: #000000;
+    align-items: right;
+  }
+  
+  ul.navbar li {
+    float: right;
+  }
+  
+  ul.navbar li a {
+    display: block;
+    color: rgb(247, 244, 244);
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: bold;
+    
+  }
+  
+  ul.navbar li a:hover {
+    background-color: #111;
+  }
+  .container {
+    width: 1390px;
+    height: 250px;
+    background-color: #edd820;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  .container h1{
+    font-family: Nunito Sans;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0;
+    text-align: left;
+  }
+  .container p{
+    font-family: Nunito Sans;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-align: left;
+  }
+  .child {
+    background-color: #080505;
+    width: 1430px;
+    height: 65px;
+    top: 400px;
+    left: -1px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0.1em;
+  }
+  .second {
+    font-family: Source Sans Pro;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    width: 480px;
+    height: 45px;
+    top: 484px;
+    left: 100px;
+    color: #000000;
+    background-color: #FFFFFF;
+  }
+  
